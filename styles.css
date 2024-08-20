@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Pixelify Sans", stylesheet
+
+}
+header {
+    border: solid 3px white;
+  
+}
+header {
+    border: solid 3px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(42, 122, 228);
+}
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background: rgb(105, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+     font-size: 35px;
+    justify-content: center;
+}
+
+div {
+   margin-right: 60px;
+
+}
